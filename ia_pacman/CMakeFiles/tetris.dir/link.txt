@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/tetris.dir/Fantome.cpp.o CMakeFiles/tetris.dir/Pacman.cpp.o CMakeFiles/tetris.dir/main.cpp.o CMakeFiles/tetris.dir/Personnage.cpp.o CMakeFiles/tetris.dir/sdlclg.cpp.o  -o tetris  -lSDL_mixer -lSDL 
